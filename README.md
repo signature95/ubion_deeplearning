@@ -1,5 +1,14 @@
 # ubion_deeplearning
 
+!DOCTYPE html>
+<html>
+    <head>
+        <img src="데이콘.png" width='1150' height='500'>
+    </head>
+    <body>
+    </body>
+</html>
+
 1차 해커톤 신용카드 매출 예측
 
 프로젝트 개요
