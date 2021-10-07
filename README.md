@@ -3,13 +3,13 @@
 !DOCTYPE html>
 <html>
     <head>
-        <img src="데이콘.png" width='1150' height='500'>
+        <img src="image/데이콘.png" width='1150' height='500'>
     </head>
     <body>
     </body>
 </html>
 
-1차 해커톤 신용카드 매출 예측
+1차 해커톤 신용카드 매출 예측Cancel changes
 
 프로젝트 개요
 1. Dataset을 확인하고 프로젝트의 목적에 맞는 전처리를 시행한다.
