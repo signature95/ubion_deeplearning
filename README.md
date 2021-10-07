@@ -1,13 +1,7 @@
 # ubion_deeplearning
 
-!DOCTYPE html>
-<html>
-    <head>
-        <img src="데이콘.png" width='1150' height='500'>
-    </head>
-    <body>
-    </body>
-</html>
+<img width="1195" alt="데이콘" src="https://user-images.githubusercontent.com/87803612/136421519-3135684b-19ca-4601-8263-be30986e39df.png">
+
 
 1차 해커톤 신용카드 매출 예측Cancel changes
 
