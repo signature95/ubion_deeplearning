@@ -14,5 +14,4 @@
 # 10.07
 
 ## 광역시 도별 결제 건당 평균 매출
-<img width="451" alt="111" src="https://user-images.githubusercontent.com/87803612/136424859-01d7d184-6151-459a-aacd-5c5327152b3e.png">
-
+![KakaoTalk_Photo_2021-10-08-01-23-25-1](https://user-images.githubusercontent.com/87803612/136425078-4737ff77-a120-435a-b2df-b79c283ae9fc.png)
