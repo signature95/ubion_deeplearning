@@ -3,7 +3,7 @@
 !DOCTYPE html>
 <html>
     <head>
-        <img src="image/데이콘.png" width='1150' height='500'>
+        <img src="데이콘.png" width='1150' height='500'>
     </head>
     <body>
     </body>
